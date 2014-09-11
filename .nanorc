@@ -1,0 +1,7 @@
+set autoindent
+set backup
+set brackets "string"
+set matchbrackets "string"
+set mouse
+set tabsize "4"
+
